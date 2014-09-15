@@ -1,0 +1,10 @@
+{
+  "name" : "backAndForth",
+  "description" : "a simple reader/writer",
+  "version" : "0.0.1",
+  "main": "server.js",
+  "dependencies" : {
+    "express" : "^4.0",
+    "body-parser" : "^1.6.5"
+  }
+}
